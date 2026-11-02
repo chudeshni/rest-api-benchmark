@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+api.venv/
+api2.venv/
+api4.venv/
+
+# Docker & Nginx
+nginx/certs/
+graph_results.png
+
+# IDE
+.vscode/
